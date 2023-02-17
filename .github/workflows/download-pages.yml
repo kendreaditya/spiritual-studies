@@ -35,7 +35,7 @@ jobs:
         run: |
           pwd
           ls
-          python .github/workflows/download_pages.py --output-dir ./../pages/
+          python /home/runner/work/spiritual-studies/spiritual-studies/.github/workflows/download_pages.py --output-dir ./../pages/
       
       - name: Commit changes
         run: |
