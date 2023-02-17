@@ -32,7 +32,10 @@ jobs:
           pip install -r requirements
       
       - name: Download pages
-        run: python .github/workflows/download_pages.py --output-dir ./../pages/
+        run: |
+          pwd
+          ls
+          python .github/workflows/download_pages.py --output-dir ./../pages/
       
       - name: Commit changes
         run: |
