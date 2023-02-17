@@ -1,0 +1,2 @@
+- At [[TSI]] 2022, [[Bhuta Bhavana]] Prabhu had us do an activity where we talked as if we were the supersoul answering  our own questions. We would tell the other person to ask the question on our behalf and we would answer the question.
+-
