@@ -18,6 +18,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - uses: actions/checkout@v2
+
       - name: Checkout
         uses: actions/checkout@v2
       
@@ -32,20 +34,16 @@ jobs:
           pip install -r requirements
       
       - name: Download pages
-        run: |
-          pwd
-          ls
-          python '/home/runner/work/spiritual-studies/download_pages.py' --output-dir pages/
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import gdown
+            gdown.download_folder('https://drive.google.com/drive/folders/1nfG7TJ3_9_GK90xTEsjxrVMmzNO_dCQI', 'pages/')
       
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add ./../pages/
           git commit -m "Update pages" -a
-        
-      - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4 
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          git push
