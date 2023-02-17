@@ -32,7 +32,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements
-          git branch download-pages
       
       - name: Download pages
         uses: jannekem/run-python-script-action@v1
@@ -46,8 +45,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ./../pages/
+          git add .
           git commit -m "Update pages" -a
-          git checkout master
           git push
-          git merge download-pages
