@@ -1,2 +1,0 @@
-- Divya Books [location](https://www.google.com/maps/place/Divya+Multimedia/@27.58072,77.695345,15z/data=!4m6!3m5!1s0x39736e34696193d9:0xd96ed4fa07ef331c!8m2!3d27.58072!4d77.695345!16s%2Fg%2F11hbfhw6hy)  [website](https://www.divyabooks.com/)
-- Rasbhihari Lal [location](https://goo.gl/maps/Jys9B452nTiEuMLAA) [website](https://rasbiharilal.com/) 

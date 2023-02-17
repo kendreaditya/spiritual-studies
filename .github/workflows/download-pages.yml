@@ -41,7 +41,7 @@ jobs:
           script: |
             import gdown
             url = "https://drive.google.com/drive/folders/1nfG7TJ3_9_GK90xTEsjxrVMmzNO_dCQI"
-            gdown.download_folder(url=url, output='./pages/', quiet=False, use_cookies=False)
+            gdown.download_folder(url=url, output='./', quiet=False, use_cookies=False)
       
       - name: Commit and push changes
         run: |
