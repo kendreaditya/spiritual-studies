@@ -35,7 +35,7 @@ jobs:
         run: |
           pwd
           ls
-          python download_pages.py --output-dir pages/
+          python '/home/runner/work/spiritual-studies/download_pages.py' --output-dir pages/
       
       - name: Commit changes
         run: |
