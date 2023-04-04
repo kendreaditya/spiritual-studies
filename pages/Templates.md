@@ -4,6 +4,7 @@
 	- ## [[Dreams]]
 	- ## [[Reflection]]
 	- ## [[Inspirational Verses]]
+	- ## [[Reminders of Krishna]]
 	- ## Miscellaneous
 - Literature Template
   template:: Literature Template
