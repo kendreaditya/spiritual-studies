@@ -5,15 +5,20 @@
   Commentaries:
   Keyword(s):
   Summary:
+- ## Table of Contents
+	- [[Introductions]]
 - ## References
-	- Commentary by [[Prabhupada]] of [[Brahma Sampradaya]] - [[Bhagavad Gita As It Is]]
-	  [[vedabase](https://vedabase.io/en/library/bg/)]
-	- Commentary by Sri [[Vishvanatha Chakravarthi Thakur]] of [[Brahma Sampradaya]] - [[Sarartha Varsini Tika]] 
-	  [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
-	- Commentary by Sri [[Ramanuja]] of [[Sri Sampradaya]] - [[Ramanuja Gita Bhasya]]
-	- Commentary by Sri Sridhara Swami of [[Rudra Sampradaya]]
-	- Commentary by Sri Madhvacharya of [[Brahma Sampradaya]]
-	- Commentary by Sri Keshava Kashmiri of [[Kumara Sampradaya]]
-	- Commentary by Sri Adi Shankaracharya of Advaita Sampradaya
-	- Commentary by Sri Abhinavagupta of Kaula Tantra Sampradaya
+	- [[Bhagavad Gita As It Is]] by Srila [[Prabhupada]] [[vedabase](https://vedabase.io/en/library/bg/)]
+	- [[Śrīmad Bhagavad-gītā]] by [[Bhaktivedanta Narayana Maharaj]]
+		- Commentary by Sri [[Vishvanatha Chakravarthi Thakur]] titled [[Sarartha Varsini Tika]] 
+		  [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
+		- Commentary by Srila [[Bhaktivinoda Thakur]] titled [[Rasika-rañjana]] [[bhaktivinodainstitute.org](https://bhaktivinodainstitute.org/writings/books/rasika-ranjana-commentary-of-bhagavad-gita/)]
+	- Commentary by Sri [[Ramanuja]] titled [[Ramanuja Gita Bhasya]]
+	- Commentary by Sri Sridhara Swami [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
+	- Commentary by Sri Madhvacharya [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
+	- Commentary by Sri Keshava Kashmiri [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
+	- Commentary by Sri Adi Shankaracharya [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
+	- [["Surrender unto me"]] by [[Bhurijana Prabhu]]
+	- [[Gita Subodhini]] by [[Gauranga Darshan Prabhu]]
+	- [[BG Notes]] by [[Gauranga Priya Prabhu]] [[pdf](https://ebooks.iskcondesiretree.com/pdf/Bhagvad_Gita_Notes_Complete_Gauranga_priya_prabhu/BGNotes%20v3.1.pdf)]
 	-
