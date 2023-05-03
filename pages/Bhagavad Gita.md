@@ -9,6 +9,7 @@
 	- [[Introductions]]
 - ## References
 	- [[Bhagavad Gita As It Is]] by Srila [[Prabhupada]] [[vedabase](https://vedabase.io/en/library/bg/)]
+	- [[Bhagavad-gītā Daśa Mūla]] by [[Bhaktivinoda Thakur]] [[bhaktivinodainstitute.org](https://bhaktivinodainstitute.org/bhagavad-gita-dasa-mula/#toc_2Krsnah_The_Supreme_Lord)]
 	- [[Śrīmad Bhagavad-gītā]] by [[Bhaktivedanta Narayana Maharaj]] [[pdf](https://www.purebhakti.com/resources/ebooks-magazines/bhakti-books/english/32-bhagavad-gita/file)]
 		- Commentary by Sri [[Vishvanatha Chakravarthi Thakur]] titled [[Sarartha Varsini Tika]] 
 		  [[bhagavad-gita.us](https://www.bhagavad-gita.us/)]
