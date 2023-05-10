@@ -9,7 +9,6 @@
 - Literature Template
   template:: Literature Template
   template-including-parent:: false
-  collapsed:: true
 	- ## [[Reference Notes]]
 	  Sources:
 	  Date:
