@@ -14,3 +14,7 @@
 - [[Siksastaka]]
 - [[Brahma Samhita]]
 - [[Ujvala Nilamani]]
+- [[Follow the Angels: The Path of Dedication]] by [[Bhakti Rakshak Sridhar Maharaj]]
+- [[Gaudiya Gita-Gucca]] by [[Bhaktivedanta Narayana Maharaj]]
+- [[Our Affectionate Guardians]] by [[Bhakti Rakshak Sridhar Maharaj]]
+-
