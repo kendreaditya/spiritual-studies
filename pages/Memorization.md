@@ -1,0 +1,18 @@
+- CHAD
+- Gopi Gita
+	- #SB/10/31/9 - Gopi Geet: Spreading KC
+- Sri Siksastakam
+- Prātaḥ Smaraṇaṁ
+  CC Adi 1.1 - 1.19 Mangalacarana
+- Sri Upadesmarta
+- Sri Isopanisad
+- Ten Offenses to Holy Name
+- #SB/3/2/23 - Putana getting liberated heard by Shukta Dev Goswami
+- #CB/1/1/1 - Description of Lord Chaintya
+- #SB/10/21/25 - Venu Geet: Description of Lord Krishna
+- #CC/Madya/22/100 - 6 process of Surrender
+- #SB/10/32/22 - The Lord is forever indebted to the Gopis bc of their devotion
+- #BG/18/66 - surrender onto me and give up everything
+- #BG/9/34/ #BG/18/65 - repeated 2 lines always think of Krishna
+- #SB/1/1/2 - 2nd verse + glorious of SB
+- #CC/Madhya/23/14-15 - faith
