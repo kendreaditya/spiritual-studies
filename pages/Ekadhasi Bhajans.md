@@ -1,7 +1,0 @@
-- Shuda Bhakta Charana Renu
-- [Atma Nivedana Tuwa Pade](http://kksongs.org/songs/a/atmanivedanatuwapade.html)
-- [‘hari’ bole’ modera gaura elo](http://kksongs.org/songs/h/haribolomodera.html)
-- [hari hari biphale](http://kksongs.org/songs/h/harihari04a.html)
-- [duṣṭa mana! tumi kisera vaiṣṇava](http://kksongs.org/songs/d/dustamana.html)
-- [Ei Baro Karuna Koro](http://kksongs.org/songs/e/eibarokarunakoro.html)
-- 
