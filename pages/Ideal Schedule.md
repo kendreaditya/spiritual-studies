@@ -98,7 +98,8 @@
 - -
   SB 10.31.9 - Gopi Geet: Spreading KC
 - -
-  3.2.23 - Putana getting liberated heard by Shukta Dev Goswami
+  #SB/3/2/23 - Putana getting liberated heard by Shukta Dev Goswami
+	-
 - -
   CB 1.1.1 - Description of Lord Chaintya
 - -
