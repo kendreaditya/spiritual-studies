@@ -1,5 +1,0 @@
-- ## Literatures
-	- [[Sri Navadvipa-dhama Book]] by [[Bhaktivedanta Narayana Maharaj]]
-	- [[Sri Navadvipa-dhama-mahatmya]] by [[Bhaktivinoda Thakur]] translated by [[Bhaktivedanta Narayana Maharaj]]
-- ## Maps
-	- Navadvipa Dham Map [[link](https://drive.google.com/open?id=1bwrK9KxQ8mMxtfl9HxcL0xxmNgDGQyPh&authuser=kendreaditya%40gmail.com&usp=drive_fs)]

@@ -1,4 +1,0 @@
-- [[Bengali]]
-- [[Hindi]]
-- [[Sanskrit]]
-- [[Marathi]]
